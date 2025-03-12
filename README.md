@@ -1,2 +1,2 @@
 # bitcoincore
-money exchage non bank
+money exchange non bank
